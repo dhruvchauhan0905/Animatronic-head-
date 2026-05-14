@@ -3,14 +3,6 @@
 
 > A 9-servo animatronic head that mirrors human facial movements in real time using MediaPipe face mesh tracking, Arduino, and a PCA9685 PWM driver. Includes a full calibration system, physics-based motion control, and predictive compensation for smooth, lag-free neck movement.
 
----
-
-## Demo
-
-> 📹 _[Add your demo GIF or YouTube link here]_
-
----
-
 ## Features
 
 - **Real-time face tracking** via MediaPipe Face Mesh (468 landmarks + iris refinement)
