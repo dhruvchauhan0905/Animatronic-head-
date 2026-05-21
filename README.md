@@ -1,6 +1,8 @@
 # Animatronic-head-
 # 🤖 Animatronic Robotic Head — Real-Time Face Tracking
 
+Demo video : https://youtu.be/sOe_zQ1-tDE
+
 > A 9-servo animatronic head that mirrors human facial movements in real time using MediaPipe face mesh tracking, Arduino, and a PCA9685 PWM driver. Includes a full calibration system, physics-based motion control, and predictive compensation for smooth, lag-free neck movement.
 
 ## Features
